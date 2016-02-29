@@ -1,5 +1,5 @@
 {
-    "name": "vagrant/blog.local",
+    "name": "blog.local",
     "description": "Simple blog",
     "authors": [
         {
